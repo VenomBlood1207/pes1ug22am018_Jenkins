@@ -19,6 +19,7 @@ pipeline {
 
         stage('Test') {
             steps {
+                sh 'chmod +x output'
                 sh './output'
             }
         }
