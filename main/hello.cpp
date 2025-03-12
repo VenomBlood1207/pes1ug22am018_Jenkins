@@ -7,6 +7,5 @@ int main(void) {
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run this  \n";
   cout << "pes1ug22am018_akshaj\n";
-  cout << "Cloud Computing\n";
   return 0;
 }
